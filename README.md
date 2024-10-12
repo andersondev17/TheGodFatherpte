@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at UniFi PMO.
+- 🔭 I’m currently working at Taurus.
 - 🌱 I’m I am passionate about technology.
-- 👯 I’m looking for a development group suited to my knowledge and techniques that allow me to develop professionally and propose new challenges and new learning experiences.
+-  I’m a software developer. Proficient in React.js, MySQL, CSS frameworks enhancing user experiences and optimizing processes. Whether you’re trying to win work, list your services, or create a new online store, I can help.
